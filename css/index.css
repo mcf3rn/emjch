@@ -14,9 +14,11 @@ html {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
 }
 
-body img {
-    width: 50%;
-    height: auto;
+#icon {
+  max-width: 10%;
+  height: auto;
+  margin: auto;
 }
